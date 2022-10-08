@@ -9,14 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/react-icons": "^3.0.0",
+    "axios": "^1.0.0",
     "next": "12.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
+    "@types/axios": "^0.14.0",
     "@types/node": "18.8.2",
     "@types/react": "18.0.21",
     "@types/react-dom": "18.0.6",
+    "@types/styled-components": "^5.1.26",
+    "babel-plugin-styled-components": "^2.0.7",
     "eslint": "8.24.0",
     "eslint-config-next": "12.3.1",
     "typescript": "4.8.4"
